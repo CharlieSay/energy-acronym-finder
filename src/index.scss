@@ -1,0 +1,16 @@
+@import '@msm-money/msm-style-base/base.scss';
+
+@font-face {
+  font-family: 'MSM Primary';
+  src: url('./assets/MSMPrimary-Bold.woff2');
+}
+@font-face {
+  font-family: 'MSM Primary Book';
+  src: url('./assets/MSMPrimary-Book.woff2');
+}
+
+html {
+  font-family: 'MSM Primary Book';
+  font-variant-ligatures: no-common-ligatures;
+  background-color: #f7f5f9;
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "acronym": "PDT",
+    "description": "Product Data Tool",
+    "commonlyUsed": "Energy back office tool to edit tariffs"
+  },
+  {
+    "acronym": "MSMG",
+    "description": "Money Super Market Group",
+    "commonlyUsed": "Company wide"
+  },
+  {
+    "acronym": "CEC",
+    "description": "Cheap Energy Club",
+    "commonlyUsed": "Money Saving Experts cheap energy club"
+  },
+  {
+    "acronym": "MSE",
+    "description": "Money Saving Expert",
+    "commonlyUsed": "Company wide"
+  }
+]

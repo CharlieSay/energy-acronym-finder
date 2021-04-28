@@ -4,6 +4,7 @@ import styled from 'styled-components'
 const HeaderTitle = styled.h1`
   color: #674186;
   font-size: 56px;
+  font-family: 'MSM Primary';
 `
 
 const HeaderStyle = styled.header`

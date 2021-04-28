@@ -1418,27 +1418,6 @@
     "@types/yargs" "^15.0.0"
     chalk "^4.0.0"
 
-"@msm-app/style-base@^0.6.0":
-  version "0.6.0"
-  resolved "https://artifactory3-eu1.moneysupermarket.com/artifactory/api/npm/npm-repo/@msm-app/style-base/-/@msm-app/style-base-0.6.0.tgz#f656f2f64440511253a29ab78be46327076cd80e"
-  integrity sha1-9lby9kRAURJTopq3i+RjJwds2A4=
-  dependencies:
-    sanitize.css "11.0.0"
-
-"@msm-money/msm-style-base@0.0.16":
-  version "0.0.16"
-  resolved "https://artifactory3-eu1.moneysupermarket.com/artifactory/api/npm/money-npm/@msm-money/msm-style-base/-/@msm-money/msm-style-base-0.0.16.tgz#6662445cd333d7ea722054ed3d1f6d962c5d1080"
-  integrity sha1-ZmJEXNMz1+pyIFTtPR9tlixdEIA=
-  dependencies:
-    sanitize.css "11.0.0"
-
-"@msmg/msm-style-base@^0.1.2":
-  version "0.1.2"
-  resolved "https://artifactory3-eu1.moneysupermarket.com/artifactory/api/npm/npm-repo/@msmg/msm-style-base/-/@msmg/msm-style-base-0.1.2.tgz#240a43e5910e0ba063403ea948f2fa9852925097"
-  integrity sha1-JApD5ZEOC6BjQD6pSPL6mFKSUJc=
-  dependencies:
-    sanitize.css "11.0.0"
-
 "@nodelib/fs.scandir@2.1.4":
   version "2.1.4"
   resolved "https://artifactory3-eu1.moneysupermarket.com/artifactory/api/npm/pim-npm/@nodelib/fs.scandir/-/fs.scandir-2.1.4.tgz#d4b3549a5db5de2683e0c1071ab4f140904bbf69"
@@ -10102,11 +10081,6 @@ sane@^4.0.3:
     micromatch "^3.1.4"
     minimist "^1.1.1"
     walker "~1.0.5"
-
-sanitize.css@11.0.0:
-  version "11.0.0"
-  resolved "https://artifactory3-eu1.moneysupermarket.com/artifactory/api/npm/pim-npm/sanitize.css/-/sanitize.css-11.0.0.tgz#29bb394c0543616f31cd8c58fcba8323a60e2ef6"
-  integrity sha1-Kbs5TAVDYW8xzYxY/LqDI6YOLvY=
 
 sanitize.css@^10.0.0:
   version "10.0.0"

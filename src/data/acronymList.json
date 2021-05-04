@@ -18,5 +18,35 @@
     "acronym": "MSE",
     "description": "Money Saving Expert",
     "commonlyUsed": "Company wide"
+  },
+  {
+    "acronym": "AEM",
+    "description": "Adobe Experience Manager",
+    "commonlyUsed": "Company wide"
+  },
+  {
+    "acronym": "QFA",
+    "description": "Quick Fire All Hands",
+    "commonlyUsed": "Company wide"
+  },
+  {
+    "acronym": "Nexus",
+    "description": "new tool",
+    "commonlyUsed": "Home Services"
+  },
+  {
+    "acronym": "k6s",
+    "description": "performance testing tool that uses javascript https://k6.io/",
+    "commonlyUsed": "Company Wide"
+  },
+  {
+    "acronym": "k8",
+    "description": "Kubernetes container orchestration system",
+    "commonlyUsed": "Company"
+  },
+  {
+    "acronym": "Rexit",
+    "description": "Say bye bye to Rightscale, this is the project for getting off of Rightscale",
+    "commonlyUsed": "Company"
   }
 ]

@@ -48,5 +48,25 @@
     "acronym": "Rexit",
     "description": "Say bye bye to Rightscale, this is the project for getting off of Rightscale",
     "commonlyUsed": "Company"
+  },
+  {
+    "acronym": "ERC",
+    "description": "Energy Requote Consumer",
+    "commonlyUsed": "Company"
+  },
+  {
+    "acronym": "EPRC",
+    "description": "Energy Partner Requote Consumer",
+    "commonlyUsed": "Company"
+  },
+  {
+    "acronym": "BOT",
+    "description": "Back Office Tool (CAT)",
+    "commonlyUsed": "Home Services"
+  },
+  {
+    "acronym": "JT",
+    "description": "John Thompson",
+    "commonlyUsed": "Home Services"
   }
 ]
